@@ -1,6 +1,10 @@
---
-java 锁
---
+---
+title: java 锁
+date: 2016-04-05 14:16:00
+categories: java
+mathjax: true
+toc: true
+---
 
 synchronized原理分析
 
